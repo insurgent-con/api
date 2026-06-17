@@ -72,4 +72,4 @@ Static data is cached automatically after the first successful refresh. Match sn
 
 ## LICENSE
 
-Insurgent API (this repository) is licensed under [AGPL-3.0](LICENSE).
+Insurgent API (this repository) is licensed under [AGPL-3.0](LICENSE.txt).
