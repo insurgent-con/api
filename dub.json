@@ -1,10 +1,9 @@
 {
     "name": "insurgent-api",
-    "description": "Conflict of Nations game data parser and match scraper library.",
+    "description": "Core CON API for comprehensive static and real-time (match) data parsing.",
     "dependencies": {
         "selenium-sdk": "~>1.1.0"
     },
     "targetType": "library",
-    "sourcePaths": ["source"],
     "stringImportPaths": ["assets"]
 }

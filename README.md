@@ -69,3 +69,7 @@ match.refreshSelection(driver);     // selected stack / tile only
 ```
 
 Static data is cached automatically after the first successful refresh. Match snapshots are throttled by default; change the policy via `cache().setMatchPolicy(...)`.
+
+## LICENSE
+
+Insurgent API (this repository) is licensed under [AGPL-3.0](LICENSE).
