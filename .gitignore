@@ -2,3 +2,7 @@ RECON_REPORT.md
 .playwright-mcp/
 assets/ip
 bin/*
+insurgent
+*.a
+*.o
+libinsurgent*
